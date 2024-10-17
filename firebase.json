@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "brinda-book",
+                    "appId": "1:725951764986:android:8c4d7b1d8a0f57ef4c6c43",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "brinda-book",
+                    "configurations": {
+                        "android": "1:725951764986:android:8c4d7b1d8a0f57ef4c6c43",
+                        "ios": "1:725951764986:ios:2afeb51aedc398474c6c43",
+                        "macos": "1:725951764986:ios:2afeb51aedc398474c6c43",
+                        "web": "1:725951764986:web:d0290a4292a182054c6c43",
+                        "windows": "1:725951764986:web:95bb0c6dcfc4604f4c6c43"
+                    }
+                }
+            }
+        }
+    }
+}

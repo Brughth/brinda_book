@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725951764986",
+    "project_id": "brinda-book",
+    "storage_bucket": "brinda-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725951764986:android:8c4d7b1d8a0f57ef4c6c43",
+        "android_client_info": {
+          "package_name": "com.richard.brinda_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJOVI7ztEZHnUsn1lCqgagEB4DIqcRlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
